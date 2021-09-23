@@ -17,4 +17,4 @@
 -> Building JSON from the query to make an API call.
 
 ## Deployed:
-
+https://pratiyush-query-builder.netlify.app/
