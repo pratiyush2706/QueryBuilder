@@ -5,7 +5,7 @@
 -> MaterialUI
 
 ## Time taken:
-3 hours approximately
+3 hours (approximately)
 
 ## Features Implemented:
 -> Building a one level query (without a groupfilter) with the human readable querystring being displayed on top.
@@ -15,3 +15,6 @@
 -> Deletion of filter
 -> GroupFIlter 
 -> Building JSON from the query to make an API call.
+
+## Deployed:
+
